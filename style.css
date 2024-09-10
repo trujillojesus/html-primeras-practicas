@@ -8,5 +8,16 @@ ul {
 }
 
 h3 {
-    color: green
+    color: green;
 }
+
+/* selector por clases */
+.texto {
+    color: purple;
+}
+
+/* selector por id */
+#tomate {
+    color: red;
+}
+
